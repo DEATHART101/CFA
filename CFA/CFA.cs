@@ -29,7 +29,6 @@ namespace CFA
 
             #endregion
 
-            private int m_
             private byte[][] m_messages;
 
             public CFATunnel()
@@ -46,6 +45,7 @@ namespace CFA
 
         public CFAClient()
         {
+
         }
 
         #region Interfaces
